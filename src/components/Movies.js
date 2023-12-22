@@ -21,7 +21,7 @@ function Movies() {
   return (
     <div>
       {/*{code here}*/}
-      <h1>Movie Page</h1>
+      <h1>Movies Page</h1>
       <div>
           {movieList}
       </div>

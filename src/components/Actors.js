@@ -18,7 +18,7 @@ function Actors() {
   return (
     <div>
       {/*{code here}*/}
-      <h1>Actor Page</h1>
+      <h1>Actors Page</h1>
       <div>
         {actorList}
       </div>
